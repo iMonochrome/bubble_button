@@ -1,4 +1,4 @@
-## Bubble butotn anumation
+## Bubble button animation
 hover button with bubble animation
 
 ### Demo
